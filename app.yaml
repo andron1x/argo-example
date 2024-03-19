@@ -7,7 +7,7 @@ spec:
   project: default
   source:
     repoURL: https://github.com/andron1x/docker-development-youtube-series.git
-    targetRevision: andron1x-dev
+    targetRevision: HEAD
     path: example-app
     directory:
       recurse: true
