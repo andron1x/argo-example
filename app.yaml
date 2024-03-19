@@ -6,8 +6,8 @@ metadata:
 spec:
   project: default
   source:
-    repoURL: https://github.com/andron1x/docker-development-youtube-series.git
-    targetRevision: HEAD
+    repoURL: https://github.com/andron1x/argo-example.git
+    targetRevision: main
     path: example-app
     directory:
       recurse: true
